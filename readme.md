@@ -1,13 +1,5 @@
 <h1>Build a local RAG with Ollama</h1>
 
-<h2>Watch the full tutorial on my YouTube Channel</h2>
-<div>
-
-<a href="https://youtu.be/c5jHhMXmXyo">
-    <img src="thumbnail_small.png" alt="Thomas Janssen Youtube" width="200"/>
-</a>
-</div>
-
 <h2>Prerequisites</h2>
 <ul>
   <li>Python 3.11+</li>
@@ -42,7 +34,6 @@ pip install -r requirements.txt
 
 <h3>5. Add Bright Data API Key</h3>
 <ul>
-<li>Get your $15 Bright Data credits: https://brdta.com/tomstechacademy</li>
 <li>Rename the .env.example file to .env</li>
 <li>Add your Bright Data API key</li>
 <li><i>If you want to use ChatGPT or Anthropic models, add an API key (not required for Ollama)</i></li>
